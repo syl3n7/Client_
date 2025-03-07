@@ -1,0 +1,14 @@
+/Users/lau/Downloads/Client_/bin/Debug/net9.0/Client_
+/Users/lau/Downloads/Client_/bin/Debug/net9.0/Client_.deps.json
+/Users/lau/Downloads/Client_/bin/Debug/net9.0/Client_.runtimeconfig.json
+/Users/lau/Downloads/Client_/bin/Debug/net9.0/Client_.dll
+/Users/lau/Downloads/Client_/bin/Debug/net9.0/Client_.pdb
+/Users/lau/Downloads/Client_/obj/Debug/net9.0/Client_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lau/Downloads/Client_/obj/Debug/net9.0/Client_.AssemblyInfoInputs.cache
+/Users/lau/Downloads/Client_/obj/Debug/net9.0/Client_.AssemblyInfo.cs
+/Users/lau/Downloads/Client_/obj/Debug/net9.0/Client_.csproj.CoreCompileInputs.cache
+/Users/lau/Downloads/Client_/obj/Debug/net9.0/Client_.dll
+/Users/lau/Downloads/Client_/obj/Debug/net9.0/refint/Client_.dll
+/Users/lau/Downloads/Client_/obj/Debug/net9.0/Client_.pdb
+/Users/lau/Downloads/Client_/obj/Debug/net9.0/Client_.genruntimeconfig.cache
+/Users/lau/Downloads/Client_/obj/Debug/net9.0/ref/Client_.dll
