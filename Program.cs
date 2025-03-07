@@ -10,7 +10,7 @@ using System.Security.Cryptography.X509Certificates;
 using System.Security.Authentication;
 
 class TCPClient
-{
+{ 
     static bool isRunning = true;
     static readonly string savedUsersFile = "savedUsers.txt";
     static readonly string savedServersFile = "savedServers.txt";
