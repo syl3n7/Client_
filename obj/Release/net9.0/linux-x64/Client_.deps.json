@@ -1,0 +1,35 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0/linux-x64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {},
+    ".NETCoreApp,Version=v9.0/linux-x64": {
+      "Client_/1.0.0": {
+        "dependencies": {
+          "Microsoft.NET.ILLink.Tasks": "9.0.0"
+        },
+        "runtime": {
+          "Client_.dll": {}
+        }
+      },
+      "Microsoft.NET.ILLink.Tasks/9.0.0": {}
+    }
+  },
+  "libraries": {
+    "Client_/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NET.ILLink.Tasks/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XDgDen9AyS9MI7r8QwW7063NPNEKIHrOEdvtR2zxhzgw2kA4RXCOsULd70jIFx+Oqb4ITuC/sYtyomY+oiiBdg==",
+      "path": "microsoft.net.illink.tasks/9.0.0",
+      "hashPath": "microsoft.net.illink.tasks.9.0.0.nupkg.sha512"
+    }
+  }
+}
